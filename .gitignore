@@ -1,0 +1,14 @@
+# data / models / outputs
+data/
+*.csv
+*.pickle
+*.pkl
+
+# python
+__pycache__/
+*.pyc
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
